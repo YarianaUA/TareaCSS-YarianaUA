@@ -1,0 +1,15 @@
+.main {
+
+    display: flex;
+    padding-top: 0.5rem;
+    padding-left: 25rem;
+    padding-right: 25rem;
+
+    justify-content: space-around;
+    
+}
+
+.box{
+    padding: 1.5rem;
+}
+

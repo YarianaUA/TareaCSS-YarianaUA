@@ -1,0 +1,26 @@
+.main{
+
+    padding-top: 0.5rem;
+    display: grid;
+
+    grid-template-rows: 1.3fr 1.3fr 1fr;
+    grid-template-columns: 0.1fr 0.1fr 1fr;
+
+    grid-template-areas: 
+        'red . .'
+            '. green .'
+                '. . purple';
+
+}
+
+.box-1{
+    grid-area: red;
+}
+
+.box-2{
+    grid-area: green;
+}
+
+.box-3{
+    grid-area: purple;
+}

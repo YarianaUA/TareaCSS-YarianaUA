@@ -1,0 +1,38 @@
+.box-1{
+
+    padding-left: 74.2rem;
+}
+
+.box-2{
+
+    padding-bottom: 63rem;
+        
+}
+
+.box-3{
+
+    position: relative;
+    left: 5rem;
+    bottom: 68.1rem;
+    padding: 10rem 36rem;
+
+}
+
+.box-4{
+
+    position: relative;
+    left: 5rem;
+    bottom: 68.1rem;
+    padding: 19rem 36rem;
+}
+
+.text {
+    font-size: medium;
+    font-weight:bolder ;
+    text-align: justify;
+
+    margin-top: -17rem;
+    margin-left: -35rem;
+    margin-right: -35rem;
+}
+

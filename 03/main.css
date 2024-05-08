@@ -1,0 +1,19 @@
+.box {
+    margin-bottom: 1rem;
+    cursor: pointer;
+}
+
+.box-1:hover {
+    padding-right: 20rem;
+    transition: 3s;
+}
+
+.box-2:hover{
+    transform: translate(8rem);
+    transition: 3s;
+}
+
+.box-3:hover{
+    background-color:rgb(190, 180, 62);
+    transition: 3s;
+}
